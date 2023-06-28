@@ -2,7 +2,7 @@
 Online Repository of graduate thesis Data/Results for completion of Master of Tropical Landscape Architecture in University of the Philippines Diliman
 
 ## Overview
-This repository contains the Tableau Dashboard made for the graduate thesis entitled 'Mapping Emergent Patterns of Landscape Architect User Experience in Creation Games to Describe Digital Landscapes'. Its data set comprises of emergent codes, categories, and segments from the interviews and 2 focus group discussions in the qualitative study.
+This repository contains the Tableau Dashboard made for the graduate thesis entitled 'Mapping Emergent Patterns of Landscape Architect User Experience in Creation Games to Describe Digital Landscapes'. Its data set comprises of emergent codes, categories, and segments from 16 interviews and 2 focus group discussions in the qualitative study.
 
 ## Dashboard Sections
 #### 1. Interview Codes Co-occurrence Matrix
