@@ -20,7 +20,7 @@ Have X and Y axes of codes, grouped according to their categories. The intersect
 ### Word Cloud
 Individual text compilations of codes within a chosen category. They are depicted according to size and color which are directly proportional to the total number of mentions of that code. They serve to quickly summarize the most significant code that can represent the category.
 ### Sunburst Diagram
-Used to display the entirety of the hierarchical relationship between the resulting codes, categories, and segments of the study. Given the sheer amount of data, the resulting diagrams are are best read in a digital format and could not be printed. Aside from hierarchy, this also informs the researcher the proportion of the results, providing more understanding which concepts are most relevant for the participants.
+Used to display the entirety of the hierarchical relationship between the resulting codes, categories, and segments of the study. Given the sheer amount of data, the resulting diagrams are best read in a digital format and could not be printed. Aside from hierarchy, this also informs the researcher the proportion of the results, providing more understanding which concepts are most relevant for the participants.
 
 
 ## Interactive Dashboard in Tableau
